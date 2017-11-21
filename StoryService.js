@@ -1,6 +1,6 @@
 (function() {
   function StoryService() {
-    var input = {};
+    var getWords = {};
     return {
       getWords: getWords,
       setWords: setWords
@@ -12,7 +12,7 @@
   function setWords() {
     input = newInfo,
 
-});
+)};
 
 
 

@@ -1,5 +1,5 @@
 (function() {
-  var storyController() {
+  function storyController() {
     controller: "storyController as ctrl",
     template: `
 

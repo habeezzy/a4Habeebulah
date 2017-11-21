@@ -2,11 +2,11 @@
   function storyController(StoryService) {
     var vm = this;
     vm.Info = {};
-    
 
 
-  }
-}
+
+  };
+})();
 
 angular
 .module("App")

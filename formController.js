@@ -1,6 +1,10 @@
 (function() {
   function formController(StoryService) {
     var vm = this;
-    var   
+    var
   }
-}
+})();
+
+angular
+.module("storyApp")
+.controller("formController", formController)
